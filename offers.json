@@ -1,8 +1,8 @@
 {
-  "badge": "Today's Offer",
-  "headline": "20% OFF up to ₹75",
-  "subtext": "On orders above ₹199",
-  "code": "TADKA20",
+  "badge": "Flash Sale - Just Launched",
+  "headline": "50% OFF up to ₹150",
+  "subtext": "On your first 3 orders today only",
+  "code": "TADKA50",
   "validTill": "Today, 11:59 PM",
-  "accentColor": "#D9622B"
+  "accentColor": "#8B2F2F"
 }
